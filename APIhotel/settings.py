@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'coreapi',
     'task',
+    'reservation_engine',
     'rest_framework',
     'corsheaders'  
 ]
